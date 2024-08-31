@@ -10,6 +10,7 @@ Inspired by an entertaining Ghost walk in Edinburgh and the Ghostbusters P.K.E. 
 
 # Tasks
 **Current tasks**
+- Rebuild graphics from AdaFruit GFX to U8g2 to support different OLED sceens [30% complete]
 - Refine Graphing
     - Bar chart
     - Line chart
@@ -22,17 +23,21 @@ Inspired by an entertaining Ghost walk in Edinburgh and the Ghostbusters P.K.E. 
   - RGBLED config
   - Button set up
 - Signal smoothing
-- Add SMA antenna socket
+- <s>Add SMA antenna socket</S>
 
 **Future tasks**
 - Webserver to display data (not sure how the ghosts will react to wifi or how it will corrupt the A0 input)
 - Add touch input sensors
-- Add onbaord battery and charging circuit
+- <s>Add second SMA antenna socket</s>
+- Add onboard battery and charging circuit
 - Source/print a case
 - Upgrade to 1.5" TFT colour screen (SPI)
+- Leave somewhere really haunted and see if anything happens
 
 # Credits
-EMF meter:
+EMF meter:<br>
+
+https://github.com/olikraus/u8g2
 
 Graphing:<br>
 https://github.com/KrisKasprzak/96_Graphing

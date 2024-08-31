@@ -37,7 +37,10 @@ Inspired by an entertaining Ghost walk in Edinburgh and the Ghostbusters P.K.E. 
 # Credits
 EMF meter:<br>
 
+Grpahics:<br>
 https://github.com/olikraus/u8g2
+OTA:<br>
+https://lastminuteengineers.com/esp32-ota-updates-arduino-ide/
 
 Graphing:<br>
 https://github.com/KrisKasprzak/96_Graphing
